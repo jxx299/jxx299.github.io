@@ -475,7 +475,8 @@
                 <li><a href="#skill">小小技能</a></li>
                 <li><a href="#works">Works</a></li>
                 <li><a href="#contact">Contact</a></li>
-        </div>
+                </ul>
+            </div>
     </nav>
 
     <!-- 主要内容 -->
@@ -497,7 +498,7 @@
                         <p class="about-bio">喜欢一切毛茸茸的事物，致力于建设冷脸萌人设</p>
                     </div>
                     <div class="about-image">
-                        <img src="/c:\Users\win11\Desktop\介绍图.jpg" alt="About Image">
+                        <img src="images/介绍图.jpg" alt="About Image">
                     </div>
                 </div>
             </div>
@@ -509,12 +510,12 @@
                 <h2 class="section-title">小小技能</h2>
                 <div class="skill-content">
                     <div class="skill-text">
-                        <p>会画一点小画
-                        <p>讲一点冷笑话 
-                        <p>做点手工
+                        <p>会画一点小画</p>
+                        <p>讲一点冷笑话</p>
+                        <p>做点手工</p>
                     </div>
                     <div class="skill-image">
-                        <img src="/c:\Users\win11\Desktop\手账.jpg" alt="Skill Image">
+                        <img src="images/手账.jpg" alt="Skill Image">
                     </div>
                 </div>
             </div>
@@ -525,18 +526,19 @@
             <div class="container">
                 <div class="works-intro">
                     <h2>生活分享</h2>
-                    <p>喜欢和好朋友一起做许多有趣的事情，永远好奇永远在路上。
+                    <p>喜欢和好朋友一起做许多有趣的事情，永远好奇永远在路上。</p>
+                </div>
                 <div class="works-gallery">
                     <div class="work-item">
-                        <img src="/c:\Users\win11\Desktop\旅行.jpg" alt="Work 1">
+                        <img src="images/旅行.jpg" alt="Work 1">
                         <p>旅行</p>
                     </div>
                     <div class="work-item">
-                        <img src="/c:\Users\win11\Desktop\撸猫.jpg" alt="Work 2">
+                        <img src="images/撸猫.jpg" alt="Work 2">
                         <p>撸猫</p>
                     </div>
                     <div class="work-item">
-                        <img src="/c:\Users\win11\Desktop\美食.jpg" alt="Work 3">
+                        <img src="images/美食.jpg" alt="Work 3">
                         <p>美食</p>
                     </div>
                 </div>
